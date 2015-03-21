@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textview1" type="id">OneIdValue</item>
+    <item name="button1" type="id">button1</item>
+</resources>
